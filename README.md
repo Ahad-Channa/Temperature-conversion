@@ -31,7 +31,7 @@
 
   <h2>Example</h2>
     <p>Below is a snapshot of the Temperature Conversion Program:</p>
-    <img src="screenshot.png" alt="Temperature Conversion Program Screenshot">
+    <img src="screenshot.PNG" alt="Temperature Conversion Program Screenshot">
 
   <h2>Contributing</h2>
     <p>Contributions are welcome! Please fork the repository and submit a pull request with your changes.</p>
