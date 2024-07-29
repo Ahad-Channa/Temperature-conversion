@@ -11,7 +11,7 @@
     <h2>How to Use</h2>
     <ol>
         <li>Clone the repository to your local system using the command:
-            <pre><code>git clone &lt;[repository-url]: (https://github.com/AhadChanan/Temperature-conversion.git)&gt;</code></pre>
+            <pre><code>git clone &lt;(https://github.com/AhadChanan/Temperature-conversion.git)&gt;</code></pre>
         </li>
         <li>Navigate to the project directory:
             <pre><code>cd temperature-conversion</code></pre>
