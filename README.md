@@ -11,7 +11,7 @@
     <h2>How to Use</h2>
     <ol>
         <li>Clone the repository to your local system using the command:
-            <pre><code>git clone &lt;repository-url&gt;</code></pre>
+            <pre><code>git clone &lt;[repository-url]: (https://github.com/AhadChanan/Temperature-conversion.git)&gt;</code></pre>
         </li>
         <li>Navigate to the project directory:
             <pre><code>cd temperature-conversion</code></pre>
@@ -37,4 +37,4 @@
     <p>Contributions are welcome! Please fork the repository and submit a pull request with your changes.</p>
 
    <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
+    <p>This project is open source just dont forgot to give credit.</p>
